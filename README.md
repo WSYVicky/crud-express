@@ -1,5 +1,11 @@
 # CRUD增删改查（基于json的文件数据）
 
+## 启动
+### 1.命令行
+```node app.js```
+### 2.浏览器
+localhost:3000/students
+
 ## 技术栈
 
 - Node
